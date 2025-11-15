@@ -1,5 +1,5 @@
 # GemTax AI — Multimodal Tax Optimization & Compliance Intelligence  
-Built for AI Genesis Hackathon | Powered by **Google AI Studio + Gemini 1.5 Pro**
+Built for AI Genesis Hackathon | Powered by **Google AI Studio + Gemini 2.5 Pro**
 
 GemTax AI is a multimodal tax intelligence system that automates financial document extraction, tax optimization, and UAE VAT + Corporate Tax compliance checks. All processing runs entirely inside **Google AI Studio** through three custom Gemini agents, orchestrated using a Lovable-hosted demo application.
 
